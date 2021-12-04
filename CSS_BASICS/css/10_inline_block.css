@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+}
+li{
+    display: inline;
+}
+
+li a{
+    padding-right: 20px;
+}
+
+img{
+    display: block;
+    margin: auto;
+}
+.box{
+    width: 30%;
+    display: inline-block;
+    background:#f4f4f4;
+    padding:20px;
+    margin-bottom: 15px;
+}
+
+/* DISPLAY
+1.block
+2.Inline-block
+3.grid
+4.flex */
